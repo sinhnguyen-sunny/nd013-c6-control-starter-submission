@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Spam Data
+.DS_Store
+.idea
